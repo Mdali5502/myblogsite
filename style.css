@@ -15,6 +15,9 @@ h2{
     margin-top: 50px;
     margin-left: 100px;
 }
+h4{
+    font-size: 50px;
+}
 section{
     display: flex;
     margin-bottom: 100px;
@@ -48,4 +51,17 @@ p{
     background-image: url(rectangular.png);
     background-repeat: no-repeat;
    
+}
+.big-dream{
+    background-image:url(yellow.png);
+    background-repeat: no-repeat;
+    background-position: right;
+  
+   
+
+    
+}
+.ali-image{
+    width: 300px;
+    height: 500px;
 }
