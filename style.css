@@ -1,0 +1,40 @@
+body{
+    margin: auto;
+    font-family: sans-serif;
+    background-color: rgb(252, 251, 251);
+}
+span{
+    color: yellow;
+}
+.left{
+    height: 500px;
+    width:35%;
+    overflow: hidden;
+    float: left;
+    padding-right: 200px;
+    
+}
+h1{
+    margin: 50px;
+}
+.left p{
+    text-align: justify;
+    margin-left: 50px;
+}
+input{
+    margin-left: 50px;
+    background-color: tomato;
+    text-align: center;
+    border: 1px solid blue;
+    height: 60px;
+    width: 80px;
+}
+.right{
+    height: 400px;
+    width: 35%;
+    overflow: hidden;
+    padding-top: 100px;
+
+
+}
+    
